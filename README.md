@@ -13,7 +13,7 @@ Before grasping its essence, set aside conceptual narratives such as "nuclear fu
 
 ### 1. Architectural Specification (Classic Structure)
 
-The Infinite Engine utilizes a non-contact, coaxial **Stator-Rotor** topology designed for extreme durability and self-correction.
+The Infinite Engine is not a collection of parts but a **Unified Field** composed of the rotor, casing, geometry, fluid, and magnetic matrices. Its operational functions are simply the inherent states of this field; high-energy applications (such as nuclear transition) are merely natural physical attributes manifesting at critical thresholds.
 
 #### 1.1 The Spindle Rotor (Active Core)
 
@@ -26,6 +26,25 @@ The Infinite Engine utilizes a non-contact, coaxial **Stator-Rotor** topology de
 * **Geometry:** A cylindrical casing with an internal cavity mirroring the rotor's geometry but with a calculated initial clearance.
 * **Thermal Management:** **Tesla Valve** (valvular conduit) micro-structures are integrated into high-pressure/temperature zones. These passive fluidic diodes utilize the Coanda effect to redirect thermal pressure rearward, achieving localized cooling and pressure regulation without moving parts.
 * **Support:** Mechanical supports at both ends secure the rotor when stationary. Upon activation, the rotor levitates via the gas film effect.
+
+#### **1.3 Geometric Evolution & Fluidic Logic**
+
+* ** Bio-Mimetic Blade Integration:** For initial fabrication, the spindle curve can be derived by merging conventional turbine blade profiles into high-thickness, circumferentially distributed segments. This maintains legacy aerodynamic efficiency while transitioning into the robust spindle geometry.
+* ** De Laval Compression-Expansion:** The spatial gap between any two spindle components inherently forms a **convergent-divergent geometry**, functioning as an integrated **De Laval Nozzle**. This ensures the medium accelerates to supersonic velocities through purely geometric induction.
+
+#### **1.4 360° Rotating Tesla-Diodic Stabilization**
+
+* ** Fluidic Diode Integration:** The rotor surface is etched with a circumferential **Tesla Valve profile**. This creates a 360-degree fluidic diode effect. Even without a secondary closed path, the valve utilizes **vortex-induced resistance** to prevent backflow and stabilize the boundary layer.
+* ** Regenerative Energy Recovery:** Tesla valve inlets are positioned immediately aft of the detonation zones.
+* **Mechanism:** The parasitic back-pressure from the oblique detonation is captured by these inlets, redirected through the internal Tesla channels, and reinjected into the forward flow. This converts harmful counter-thrust into positive acceleration.
+* **Shaft Stabilization through Fluidic Logic:** The propulsion and cooling channels, structured as a tri-radial Tesla-diodic array surrounding the core, utilize the **fluid momentum** of cooling media or high-pressure gases to generate **centripetal confinement**. As the medium navigates the specific curvature of the Tesla channels, it creates a self-correcting hydrodynamic pressure field that actively locks the shaft into its rotational axis, providing an additional layer of dynamic stability to the entire assembly.
+
+#### **1.5 The Hexa-Detonation Cycle (The 2x Power Multiplier)**
+
+Through precise sizing and positioning of the Tesla inlets, the engine achieves a **Secondary Ignition Protocol**:
+* **Mechanism:** At ultra-high velocities, the shockwave from the primary detonation at the spindle's leading edge is captured and channeled to the spindle's trailing edge.
+* **Result:** The channeled energy reaches the necessary pressure-temperature threshold to trigger a **Secondary Oblique Detonation** within the same stage.
+* **Scaling:** This allows the 3-stage base structure to achieve **6 detonation pulses per cycle**. As velocity scales, the power output jumps from 3x to 4x, 5x, and finally 6x, providing an exponential thrust curve.
 
 #### **Manufacturing Methodology: Sacrificial Phase Precision & Monolithic Casting**
 
@@ -264,7 +283,7 @@ The Infinite Engine protocol dictates that the system begins with the cheapest m
 
 ### 1. 架构规范 (经典结构)
 
-无限引擎采用非接触式同轴**定子-转子**拓扑结构，专为极度耐用性和自校正能力而设计。
+无限引擎并非零件的堆砌，而是一个由转子、外壳、几何形状、流体与磁阵列构成的**统一场**。其表现出的各项功能仅是该场的常态表现；而深层应用（如核能阶跃）则是系统达到临界状态时自然显现的物理属性。
 
 #### 1.1 纺锤体转子 (主动核心)
 
@@ -277,6 +296,25 @@ The Infinite Engine protocol dictates that the system begins with the cheapest m
 * **几何构型：** 内部空腔形状与转子几何形状对应但预留计算间隙的圆柱形外壳。
 * **热管理：** 在高温高压区集成**特斯拉阀 (Tesla Valve)** 微结构。这些被动流体二极管利用柯恩达效应将热压向后引导，无需移动部件即可实现局部自动降温和稳压。
 * **支撑：** 两端的机械支撑在静止时固定转子。启动后，转子通过气膜效应实现悬浮。
+
+#### **1.3 几何演化与流体逻辑**
+
+* **仿生叶片集成：** 在起步设计中，可参考现有引擎叶片曲线，将其想象为多个极厚的叶片沿圆周等分叠加并融合为纺锤体曲线。这确保了在低速阶段具备传统空气动力学的高效率。
+* **拉瓦尔喷管效应：** 两个纺锤体组件之间的空间自然形成了“缩放”结构（小-大-小），其本质即为**德拉瓦尔喷管**，确保了工质在通过几何间隙时能自发实现超音速加速。
+
+#### **1.4 360度旋转特斯拉阀流体阻尼**
+
+* ** 旋转流控二极管：** 将特斯拉阀的单向流曲线绕旋转轴一周，使转子表面成为一个**360度全包围特斯拉阀门**。即使在没有第二路径的情况下，通过诱导工质产生内向涡流，利用**动量阻力**即可实现极强的单向导流与反向截止效应。
+* ** 寄生能量回收：** 特斯拉阀的入口精确安置在斜爆震发生区域的后方。
+* **机制：** 斜爆震产生的向后副作用能量被入口捕获，通过转子内部的特斯拉通道调整矢量，导入前方。这不仅消除了副作用带来的反向冲击，还实现了能量的二次加速。
+* **轴系稳定与流体逻辑：** 由三个环绕轴心的曲面组成的特斯拉流道，在输送冷却介质或高压气体时，利用**流体动量**产生**向心约束**。当介质流经特定曲率的特斯拉通道时，会产生一种自修正的流体动力场，将轴心主动锁定在旋转中心线上，从而为整个转子组件提供进一步的动态稳定性。
+
+#### **1.5 六重爆震循环（2倍功率增益）**
+
+通过设定入口的大小与位置，引擎在极高速状态下可实现**二次点火协议**：
+* **机制：** 当三个结构全部进入爆震状态，巨大的冲击力足以进入预设的特斯拉通道。纺锤体前端触发的首次斜爆震能量，经过通道调整方位后导入该纺锤体的末端。
+* **结果：** 导出的能量触发第二次斜爆震，实现**单结构双点火**。这意味着基础的3个结构可以产生6次爆震。
+* **功率飞跃：** 随着转速提升，功率实现从4次、5次到6次爆震的跨越式飞跃，赋予引擎指数级的动力输出
 
 #### **加工工艺：牺牲层间隙控制与整体嵌套浇筑**
 
