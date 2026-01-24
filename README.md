@@ -1,12 +1,15 @@
 ## THE INFINITE ENGINE: Self-Evolutionary Protocol
 
+"Static constructs are bound by their inherent limits; only that which transcends through continuous self-evolution truly embodies the Infinite."
+
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 [Read in English](#infinite-precision) | [跳转到中文](#无限引擎：自我进化协议)
 
 ---
 
-"Static constructs are bound by their inherent limits; only that which transcends through continuous self-evolution truly embodies the Infinite."
+## A "Dynamic Gravity Well" Defined by High-Order Rotation
+Before grasping its essence, set aside the narratives of nuclear fusion; treat it as a multi-modal propulsion architecture that integrates the functions of an aero-engine, a chemical rocket, a plasma thruster, and a nuclear fission pulse engine.
 
 ### 1. Architectural Specification (Classic Structure)
 
@@ -251,13 +254,13 @@ The Infinite Engine protocol dictates that the system begins with the cheapest m
 
 ## 无限引擎：自进化协议
 
-## 一种基于自组织旋转爆震的推进系统规范
+“固定的事物终有极限；唯有在不断自我进化中超越的，才配称为‘无限’。”
 
 **开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 ---
-
-“固定的事物终有极限；唯有在不断自我进化中超越的，才配称为‘无限’。”
+## 一个由高阶旋转定义的“动态引力阱”
+在洞悉其本质之前，请暂且搁置关于核聚变的描述，将其视作一台集航空涡扇、化学火箭、等离子体电推与核裂变脉冲于一体的全模态动力架构。
 
 ### 1. 架构规范 (经典结构)
 
