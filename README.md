@@ -104,6 +104,35 @@ The Infinite Engine discards traditional external electronic ignition in favor o
 * **9-Point Axial Array Layout:** The three core spindles are not aligned in a simple straight line; they utilize a **Phase-Offset Axial Array**. When viewed along the axis of rotation, they form a 9-point distribution through rotational biasing. This staggered arrangement ensures an absolute uniform distribution of explosive pressure around the circumference.
 * **Endogenous Robustness:** This 9-point array generates a self-balancing dynamic field. Due to the deep coupling of fluid-magnetic-structural properties, the system generates instantaneous corrective torque if pressure fluctuations occur. This inherent stability, born from the fusion of physical characteristics, eliminates the need for **powerful external control systems**. In this architecture, the structure is the command, the rotation is the computation, and the laws of physics serve as the feedback loop.
 
+#### 4.1 Self-Regulating Magneto-Thermal Feedback Loop (The "Self-Shielding" Logic)
+
+**Logic Principle:** A positive feedback system coupling rotational kinetic energy with magnetic confinement.
+
+* **Physical Mechanism:** Based on **Faraday's Law of Induction** and **Lenz's Law**. As the thermodynamic expansion of the fuel drives the rotor to higher angular velocities ($\omega$), the integrated magnetic array cuts the stator flux lines at higher frequencies, generating a stronger self-induced magnetic field ($B$).
+* **Thermal Management:** This intensified magnetic field creates a **Z-Pinch** effect, where the Lorentz force ($\vec{F} = q\vec{v} \times \vec{B}$) constricts the high-temperature plasma toward the central axis. This creates a vacuum thermal insulation layer between the plasma core and the physical wall, effectively using the thermal energy's "by-product" (rotation) to shield the structure from the heat itself.
+
+#### 4.2 Continuous Pulsed Micro-Fission/Fusion via Magneto-Inertial Coupling
+
+**Logic Principle:** Utilizing high-frequency rotational kinetic energy to trigger non-steady-state nuclear reactions.
+
+* **Physical Mechanism:** This combines **Magneto-Inertial Fusion (MIF)** with active control. By injecting trace amounts of fissile or fusile isotopes into the "Pressure Singularity" created by the N-stage compression, the system uses the rotor's colossal rotational inertia as a "flywheel" to maintain pressure.
+* **Active Control:** High-fidelity control systems modulate the pulse frequency to match the rotor's resonance. Each micro-explosion generates a high-energy plasma burst that further accelerates the rotor through electromagnetic induction, achieving a self-sustaining pulsed power cycle where the "igniter" and the "generator" are physically unified.
+
+#### 4.3 Geometric Optimization: The Dual-Conical Magnetic Mirror Topology
+
+**Logic Principle:** A convergent-divergent (CD) geometry designed for both fluid-dynamic compression and magnetic trapping.
+
+* **Physical Mechanism:** The "Large Ends, Small Middle" design acts as a **Physical-Magnetic Hybrid De Laval Nozzle**.
+* **The Throat (Singularity):** The narrow center (throat) maximizes the **Adiabatic Compression Ratio**, reaching the ignition threshold for ions.
+* **The Magnetic Mirror:** In plasma physics, this geometry creates a **Magnetic Mirror Effect**. The magnetic field density ($B$) is higher at the wider ends (due to higher linear velocity of the magnetic array) and converges at the throat. This traps charged particles in the central reaction zone, preventing axial loss and ensuring the nuclear reaction is stabilized and intensified within the "Magnetic Bottle."
+
+#### 4.4 Magnetically Modulated Phase-Transition Equilibrium (The "Solid-Liquid Hybrid Evolution" Logic)
+
+**Logic Principle:** Maintaining the structural interface at a controlled "Self-Healing" critical state through real-time field-strength modulation.
+
+* **Physical Mechanism:** Utilizing the **Stefan Problem** (phase change kinetics) coupled with **Magnetohydrodynamics (MHD)**. By precisely calculating the thermal flux, the control system modulates the magnetic pressure ($P_{mag} = B^2 / 2\mu_0$) to allow a microscopic layer of the rotor and stator surfaces to enter a **quasi-liquid phase**.
+* **Evolutionary Process:** In this "Solid-Liquid Hybrid" state, the centrifugal force flattens any structural irregularities (micropores or microcracks) while the magnetic field acts as a "Virtual Mold," confining the molten material. As impurities are ejected via centrifugal stratification and structural gaps are filled by the remelted high-performance alloy, the engine undergoes **In-situ Refinement**, achieving "Infinite Precision" through operation rather than manufacturing.
+
 ### **5. Hybrid Startup & Dynamic Protection Protocol**
 
 #### **5.1 Startup Strategy (Cold Start & High-Tier Pre-Lift):**
@@ -325,6 +354,31 @@ The Infinite Engine protocol dictates that the system begins with the cheapest m
 * **几何诱导点火（Structural Triggering）：** 旋转斜爆震（ROD）的激发不依赖外部火花塞，而是通过纺锤体特定的几何型面诱导激波产生。当转速达到阈值，纺锤体前端作为**激波调节器（Shockwave Regulator）**，自动将进入的工质导向特定压力奇点，强制诱导斜爆震发生。
 * **9 点轴心阵列布局（Phase-Offset Array）：** 三个核心结构在轴向上并非呈简单直线排列，而是采用**轴心相位阵列布局**。通过旋转偏置，在空间上形成 9 点分布。这种螺旋交错的排布方式确保了爆发压力在圆周方向上的绝对均匀分布。
 * **内生鲁棒性（Intrinsic Robustness）：** 这种 9 点阵列布局产生了一个自平衡的动力场。由于结构、流体与磁力特性的深度融合，当发生压力波动时，系统会自发产生瞬时修正力矩。这种内生的超级鲁棒性，使得引擎在运行过程中**不需要强大的外部控制系统**。在这种架构下，结构即是指令，旋转即是计算，物理定律即是完美的反馈回路。
+
+#### 4.1 自调节磁热反馈闭环（“以热治热”逻辑）
+
+* **逻辑原理：** 将转子旋转动能与磁约束深度耦合的正反馈系统。
+* **物理机制：** 基于**法拉第电磁感应定律**与**楞次定律**。燃料的热膨胀驱动转子达到更高的角速度 ($\omega$)，内置磁阵列切割磁感线的频率随之提升，产生更强的自激发磁场（$B$）。
+* **热量管理：** 增强的磁场产生**Z-Pinch（Z轴缩进）**效应，洛伦兹力($\vec{F} = q\vec{v} \times \vec{B}$)将高温等离子体向轴心强行挤压。这在等离子体核心与物理内壁之间形成了一个真空隔热层，实现了利用热能产生的动力（转速）来反向屏蔽热能本身。
+
+#### 4.2 基于磁惯性耦合的连续脉冲微裂变/聚变
+
+* **逻辑原理：** 利用高频旋转动能触发非稳态核反应。
+* **物理机制：** 该过程结合了**磁惯性约束（MIF）**与主动控制技术。通过向N级级联压缩形成的“压力奇点”注入微量裂变或聚变同位素，系统利用转子巨大的转动惯性作为“物理飞轮”来维持反应所需的压力环境。
+* **主动控制：** 高级控制系统调节脉冲频率以匹配转子的机械共振。每一次微爆产生的高能等离子体团通过电磁感应进一步加速转子，实现自持的脉冲动力循环，使“点火器”与“发电机”在物理结构上合二为一。
+
+#### 4.3 几何优化：双锥形磁镜拓扑结构（两头大中间小）
+
+* **逻辑原理：** 兼顾流体动力学压缩与电磁束缚的收敛-扩张（CD）几何设计。
+* **物理机制：** “两头大、中间小”的设计构成了**物理-磁能复合型拉伐尔喷管**。
+* **喉道（奇点区）：** 中间的细腰部（喉道）最大化了**绝热压缩比**，使工质离子达到点火阈值。
+* **磁镜效应：** 在等离子体物理中，此几何结构形成了**磁镜（Magnetic Mirror）**。两端大直径处（由于磁阵列线速度更高）产生的磁场梯度与喉道汇聚，形成“磁瓶”效应，将带电粒子反射并锁定在中心反应区，防止轴向逃逸，确保核反应在“瓶颈”处稳定并强化。
+
+#### 4.4 磁控相变动态平衡（“固液混合进化”逻辑）
+
+* **逻辑原理：** 通过实时调节场强，使结构界面维持在受控的“自修复”临界状态。
+* **物理机制：** 利用**斯特凡问题（相变动力学）**与**磁流体力学（MHD）**的耦合。控制系统根据实时热流计算结果，精确调节磁压 ($P_{mag} = B^2 / 2\mu_0$)，使转子与定子表面维持在一层微米级的**类液态相（Quasi-liquid phase）**。
+* **进化过程：** 在这种“固液混合”状态下，离心力会抹平任何结构缺陷（如微孔或微裂纹），而磁场则充当“虚拟模具”束缚熔融材料。随着杂质在离心力下分层排出，且结构缝隙被重新熔化的等离子体或高性能合金填补，发动机实现了**原位精炼（In-situ Refinement）**。这意味着引擎不是在磨损，而是在通过运行不断向“无限精度”进化。
 
 ### **5. 混合动力起步与动态防护协议**
 
