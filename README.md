@@ -25,6 +25,28 @@ The Infinite Engine utilizes a non-contact, coaxial **Stator-Rotor** topology de
 * **Thermal Management:** **Tesla Valve** (valvular conduit) micro-structures are integrated into high-pressure/temperature zones. These passive fluidic diodes utilize the Coanda effect to redirect thermal pressure rearward, achieving localized cooling and pressure regulation without moving parts.
 * **Support:** Mechanical supports at both ends secure the rotor when stationary. Upon activation, the rotor levitates via the gas film effect.
 
+#### **Manufacturing Methodology: Sacrificial Phase Precision & Monolithic Casting**
+
+**Technical Logic & Principle:**
+In the absence of a self-evolving operational environment, structural precision is achieved through a **Sacrificial Clearance Strategy**. This method involves applying a transient coating (the sacrificial layer) of specific thickness onto the rotor’s spindle geometry. The entire assembly is then used as a core for **Monolithic Casting**. Once the external stator material solidifies, the sacrificial layer is chemically dissolved or thermally ablated.
+
+1. **Zero-Tolerance Alignment:** By casting directly over the rotor (pre-coated with a sacrificial film), the internal geometry of the stator becomes a perfect negative image of the rotor. This eliminates the cumulative errors inherent in separate CNC machining of the two components.
+2. **Uniform Aerodynamic Gap:** The thickness of the sacrificial layer defines the precise **Aerodynamic Clearance** required for the initial gas film levitation. This ensures that the engine can reach the critical rotational velocity necessary to transition into the subsequent self-repair and self-evolution phases.
+3. **Structural Integrity:** Monolithic casting ensures the stator is a single, seamless block, maximizing pressure containment for the cascading detonation waves.
+
+#### **Energy Hierarchy: The Catalyst of Evolution**
+
+**Principle:** In the philosophy of the Infinite Engine, **extreme thermal energy and high-pressure gradients** are not destructive by-products but the primary **sources of evolution**. They act as the "forge" that drives phase transitions, molecular re-alignment, and structural refinement. The integration of **Tesla Valve structures** is a tactical contingency—to be utilized only when the operational energy exceeds the transient tolerance threshold of current materials. Once the material evolves to a higher thermal-stable state, the system naturally seeks higher energy densities to further its evolutionary trajectory.
+
+#### **Modular Configuration & Deployment Architecture**
+
+The structural scalability of the Infinite Engine allows for versatile deployment across multiple platforms, governed by the principle of **Multi-Node Synchronization**.
+
+1. **Micro-Scale Miniaturization:** By reducing the aspect ratio and slimming the spindle diameter, the engine can be miniaturized for high-thrust-to-weight ratio applications in UAVs (drones) and compact tactical equipment.
+2. **Linear Stacking & Distributed Propulsion:** For medium-to-heavy lift platforms, multiple units can be **linearly stacked** or distributed along wing-spar and fuselage nodes. This redundancy ensures synchronized thrust vectoring and enhances survivability through distributed power.
+3. **Heavy-Lift Array (Macro-Scale):** For orbital launch vehicles, macro-scale Infinite Engines are clustered in high-density arrays to function as primary rocket boosters, utilizing the cascading detonation effect to achieve high specific impulse ($I_{sp}$) at sea level and vacuum.
+4. **Omni-Directional Arrays (V/STOL):** Units can be arranged in a **radial-centripetal** or **quadrilateral-vertex** configuration. This enables non-traditional flight dynamics (UAV/UFO style), allowing for 360-degree vectoring, instantaneous hovering, and hyper-maneuverability through differential thrust control.
+
 ---
 
 ### 2. Theoretical Principles & Mechanics
@@ -138,6 +160,28 @@ The Infinite Engine protocol dictates that the system begins with the cheapest m
 * **几何构型：** 内部空腔形状与转子几何形状对应但预留计算间隙的圆柱形外壳。
 * **热管理：** 在高温高压区集成**特斯拉阀 (Tesla Valve)** 微结构。这些被动流体二极管利用柯恩达效应将热压向后引导，无需移动部件即可实现局部自动降温和稳压。
 * **支撑：** 两端的机械支撑在静止时固定转子。启动后，转子通过气膜效应实现悬浮。
+
+#### **加工工艺：牺牲层间隙控制与整体嵌套浇筑**
+
+**技术逻辑与原理：**
+在尚未建立自进化运行环境的情况下，结构精度通过 **“牺牲层定间隙策略”** 来实现。该方法在转子纺锤体表面预先包覆一层特定厚度的暂态材料（牺牲层），随后将其作为型芯进行 **整体嵌套浇筑**。待外壳材料固化成型后，通过化学溶解或热消融方式去除牺牲层。
+
+1. **零公差对齐：** 通过直接在转子（包覆牺牲层）表面进行浇筑，外壳内腔成为转子几何形状的完美负影。这消除了转子与外壳分别进行 CNC 加工时不可避免的累积公差。
+2. **均匀气动间隙：** 牺牲层的厚度精确定义了初始气膜悬浮所需的**气动间隙**。这确保了引擎能够顺利达到临界转速，从而平稳过渡到后续的自修复与自进化阶段。
+3. **结构完整性：** 整体浇筑确保了外壳是一个无缝的单体结构，从而在级联爆震波产生时提供最大的压力承载能力。
+
+#### **能量等级：进化的源泉**
+
+**原理：** 在无限引擎的哲学中，**极端高温与高压梯度**并非破坏性的副作用，而是**进化的核心源泉**。它们充当了驱动相变、分子重排与结构精炼的“熔炉”。**特斯拉阀结构**的集成是一种战术性的补偿手段——仅当运行能量达到当前材料的瞬时承载瓶颈时启用。一旦材料进化至更高能级的热稳态，系统将自动寻求更高的能量密度，以推动进一步的演化轨迹。
+
+#### **模块化配置与部署架构**
+
+无限引擎的结构可扩展性允许其在多种平台上进行多样化部署，并遵循**多节点同步原理**。
+
+1. **微型化缩放：** 通过减小长径比并缩小纺锤体直径，引擎可实现微型化，适用于无人机或小型战术设备等要求高推重比的场景。
+2. **线性堆叠与分布式推进：** 对于中大型载具，可采用**多机组堆叠**或将其分布于机翼、机身等关键节点。这种冗余设计确保了推力矢量的同步控制，并通过分布式动力提升了系统生存能力。
+3. **巨型集群（重型火箭）：** 放大后的无限引擎可以高密度集群阵列形式布置，充当重型火箭引擎。利用级联爆震效应，在海平面及真空环境下均能获得极高的比冲 ($I_{sp}$)。
+4. **全向矢量阵列（异形飞行器）：** 引擎可沿**圆心旋转分布**或采用**四角顶点分布**。这种布局可实现非传统飞行力学（类 UFO 式飞行），通过差速推力控制实现 360 度全向矢量、瞬时悬停及超高机动性。
 
 ---
 
