@@ -9,7 +9,7 @@
 ---
 
 ## A "Dynamic Gravity Well" Defined by High-Order Rotation
-Before grasping its essence, set aside the narratives of nuclear fusion; treat it as a multi-modal propulsion architecture that integrates the functions of an aero-engine, a chemical rocket, a plasma thruster, and a nuclear fission pulse engine.
+Before grasping its essence, set aside conceptual narratives such as "nuclear fusion" or "self-evolution." Discard idealized design goals and treat it as an energy closed-loop architecture realized through physical constants: a multi-modal propulsion platform that integrates the functions of an aero-engine, a chemical rocket, a plasma thruster, and a nuclear fission pulse engine.
 
 ### 1. Architectural Specification (Classic Structure)
 
@@ -196,7 +196,7 @@ To address the ultimate thermal challenge during the nuclear transition, the Inf
 
 ### 10. The Evolutionary Protocol (Generational Roadmap)
 
-The engine is designed to evolve its physical structure and performance envelope through operation.
+This content is intended to elaborate on the design vision and underlying philosophy; please evaluate its developmental trajectory through the lens of continuous engineering iteration.
 
 #### Generation I: The Prototype (Geometric Adaptation)
 
@@ -260,7 +260,7 @@ The Infinite Engine protocol dictates that the system begins with the cheapest m
 
 ---
 ## 一个由高阶旋转定义的“动态引力阱”
-在洞悉其本质之前，请暂且搁置关于核聚变的描述，将其视作一台集航空涡扇、化学火箭、等离子体电推与核裂变脉冲于一体的全模态动力架构。
+在洞悉其本质之前，请暂且搁置关于“核聚变”与“自进化”等概念性的描述。放下理想设计目标，将其视为一种利用物理常数实现的能量闭环架构：它是一台集航空涡扇、化学火箭、等离子体电推与核裂变脉冲于一体的全模态动力平台。
 
 ### 1. 架构规范 (经典结构)
 
@@ -441,7 +441,7 @@ The Infinite Engine protocol dictates that the system begins with the cheapest m
 
 ### 10. 进化协议 (世代演变路线)
 
-本引擎设计为通过运行来进化其物理结构和性能包线。
+此内容旨在阐述设计愿景与底层理念，请以工程持续迭代的视角审视其演进路径。
 
 #### 初代：原型机 (几何适配)
 
