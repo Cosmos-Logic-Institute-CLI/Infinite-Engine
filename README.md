@@ -8,6 +8,14 @@
 
 ---
 
+**Experimental Protocol: Proof of Concept via Geometric Induction**
+
+1. **Preparation:** Section a standard pipe longitudinally. Insert a shaft equipped with three spindle-shaped components. Heat the spindles and rotate the assembly slightly to "emboss" the inner wall of the pipe, creating a precision-matched geometric profile with a slight clearance.
+2. **Assembly:** Once cooled, re-seal the pipe segments using high-strength adhesive and reinforce the external structure with industrial-grade binding tape.
+3. **Observation:** Inject high-pressure flow via a specialized nozzle while applying localized thermal stress with a high-temperature heat gun. Monitor the rotational stability of the spindle shaft and observe the thermal resistance/melt-pattern of the pipe wall to verify the effectiveness of the gas-film suspension and geometric induction.
+
+---
+
 ## A "Dynamic Gravity Well" Defined by High-Order Rotation
 Before grasping its essence, set aside conceptual narratives such as "nuclear fusion" or "self-evolution." Discard idealized design goals and treat it as an energy closed-loop architecture realized through physical constants: a multi-modal propulsion platform that integrates the functions of an aero-engine, a chemical rocket, a plasma thruster, and a nuclear fission pulse engine.
 
@@ -425,6 +433,15 @@ If skepticism persists, consider this: even when utilizing standard engine mater
 **开源许可协议：** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 ---
+
+**实验规程：几何诱导原理验证**
+
+1. **准备阶段：** 将水管纵向锯开，夹入带有三个纺锤形构件的轴心。加热纺锤体并进行微旋操作，使水管内壁受热成型，出现略大于纺锤体的配合型面。
+2. **组装阶段：** 待冷却定型后，将水管重新粘合，并使用工业胶带进行外部加固。
+3. **观察阶段：** 使用高压喷嘴注入高速气流，同时配合高温热风枪施加热载荷。通过观察轴心的旋转稳定性以及水管内壁的熔融程度，验证气膜悬浮效果与几何诱导逻辑的可行性。
+
+---
+
 ## 一个由高阶旋转定义的“动态引力阱”
 在洞悉其本质之前，请暂且搁置关于“核聚变”与“自进化”等概念性的描述。放下理想设计目标，将其视为一种利用物理常数实现的能量闭环架构：它是一台集航空涡扇、化学火箭、等离子体电推与核裂变脉冲于一体的全模态动力平台。
 
