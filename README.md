@@ -260,6 +260,8 @@ This content is intended to elaborate on the design vision and underlying philos
 
 The Infinite Engine is not a static machine but an **evolutionary entity** that achieves performance leaps through material phase-transitions and energy-driven reinforcement. Its core philosophy lies in **Topological Constancy**: using a fixed geometric anchor (the Tri-Spindle Rigid Axis) to harness the volatile energy of surging power levels.
 
+"If you question the stability of its dynamic evolution, then ensure it is evolved to perfection back at the factory."
+
 #### 1. Generation 0: The Polymer/Turbofan Phase (Self-Centering)
 
 * **Architecture:** 3D-printed high-strength **PEEK (Polyetheretherketone) + Continuous Carbon Fiber (CF)**.
@@ -669,6 +671,8 @@ If skepticism persists, consider this: even when utilizing standard engine mater
 ### 核心增补章节：全生命周期自适应演进协议与能量正反馈机制
 
 本引擎的设计核心在于：**利用几何拓扑的守恒性（三纺锤体强约束定轴）来对抗材料能级的跃迁，并利用能量输入的增加来强化物理约束。** 系统不再依赖静态的材料强度，而是通过物质摄入与能量淬炼实现性能的自驱动进化。
+
+“如果你质疑动态进化的稳定性，请使用之前在工厂中就将它进化至完美”
 
 #### 1. 初生阶段：聚合物自调校模态 (Generation 0: Polymer/Turbofan Phase)
 
