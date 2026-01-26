@@ -47,12 +47,45 @@ The Infinite Engine is not a collection of parts but a **Unified Field** compose
 * **Mechanism:** The parasitic back-pressure from the oblique detonation is captured by these inlets, redirected through the internal Tesla channels, and reinjected into the forward flow. This converts harmful counter-thrust into positive acceleration.
 * **Shaft Stabilization through Fluidic Logic:** The propulsion and cooling channels, structured as a tri-radial Tesla-diodic array surrounding the core, utilize the **fluid momentum** of cooling media or high-pressure gases to generate **centripetal confinement**. As the medium navigates the specific curvature of the Tesla channels, it creates a self-correcting hydrodynamic pressure field that actively locks the shaft into its rotational axis, providing an additional layer of dynamic stability to the entire assembly.
 
-#### **1.5 The Hexa-Detonation Cycle (The 2x Power Multiplier)**
+### **The 1.5 Multi-Stage Detonation-Oblique Cycle**
 
-Through precise sizing and positioning of the Tesla inlets, the engine achieves a **Secondary Ignition Protocol**:
-* **Mechanism:** At ultra-high velocities, the shockwave from the primary detonation at the spindle's leading edge is captured and channeled to the spindle's trailing edge.
-* **Result:** The channeled energy reaches the necessary pressure-temperature threshold to trigger a **Secondary Oblique Detonation** within the same stage.
-* **Scaling:** This allows the 3-stage base structure to achieve **6 detonation pulses per cycle**. As velocity scales, the power output jumps from 3x to 4x, 5x, and finally 6x, providing an exponential thrust curve.
+#### **The Nine-Pulse Detonation Protocol (Hybrid RDE/ODWE Cycle)**
+
+By utilizing the spindle's leading edge as a **"Shockwave Regulator"** and the apex as a **"Pressure Singularity Trigger,"** the engine establishes a precise, velocity-dependent firing sequence. Coupled with the Tesla Valve feedback loop, the system achieves a **High-Frequency Multi-Ignition Protocol** at hypersonic velocities.
+
+#### **The Sequential Ascension Logic (From Static to Hypersonic)**
+
+* **Phase I: Cold Start & Compression (Subsonic/Transonic):**
+* The engine initiates via **Magnetic Levitation** (High-Tier) or **Sacrificial Lubricant** (Low-Tier).
+* As RPM increases, the system functions as a turbo-compressor.
+
+* **Phase II: Apex Detonation (Supersonic - The First Triad):**
+* **Mechanism:** Velocity builds pressure to the first critical singularity.
+* **Sequence:** The peak pressure triggers a **Normal/Rotational Detonation** at the **Apex (Widest Point)** of the structure.
+* **Order:** Stage III Apex fires  Stage II Apex fires  Stage I Apex fires.
+* **Result:** 3 Discrete Detonation Events.
+
+* **Phase III: Oblique Detonation (Hypersonic - The Second Triad):**
+* **Mechanism:** As velocity pushes past Mach 5+, the **Leading Edge** generates strong standing shockwaves.
+* **Sequence:** The leading edge compresses the incoming flow to auto-ignition, triggering **Oblique Detonation Waves (ODW)**.
+* **Order:** Stage III Leading Edge  Stage II Leading Edge  Stage I Leading Edge.
+* **Result:** 3 Additional Detonation Events (Total 6).
+
+#### **The Tesla Regenerative Loop (The Third Triad)**
+
+* **Mechanism:** When the primary structures enter the detonation state, the immense shock pressure forces high-energy gas into the pre-set **Tesla Valve Inlets**.
+* **Routing:** The internal channels redirect this captured shock energy from the Front/Apex to the **Tail (Trailing Edge)** of each spindle.
+* **Tail Ignition:** This reinjected high-pressure stream triggers a **Secondary Detonation (or Afterburning)** at the tail of each stage.
+
+#### **Summary: The 9-Stage Resonance**
+The cumulative output results in a self-sustaining **Nine-Pulse Cycle**:
+
+* **3x Apex Detonations** (Pressure-Driven).
+*  **3x Oblique Detonations** (Shock-Driven).
+* **3x Tail Detonations** (Feedback-Driven).
+**Result:** An exponential power multiplier driven by geometric topology, maximizing thrust efficiency across the entire mach regime.
+
+---
 
 #### **Manufacturing Methodology: Sacrificial Phase Precision & Monolithic Casting**
 
@@ -473,12 +506,42 @@ If skepticism persists, consider this: even when utilizing standard engine mater
 * **机制：** 斜爆震产生的向后副作用能量被入口捕获，通过转子内部的特斯拉通道调整矢量，导入前方。这不仅消除了副作用带来的反向冲击，还实现了能量的二次加速。
 * **轴系稳定与流体逻辑：** 由三个环绕轴心的曲面组成的特斯拉流道，在输送冷却介质或高压气体时，利用**流体动量**产生**向心约束**。当介质流经特定曲率的特斯拉通道时，会产生一种自修正的流体动力场，将轴心主动锁定在旋转中心线上，从而为整个转子组件提供进一步的动态稳定性。
 
-#### **1.5 六重爆震循环（2倍功率增益）**
+### **1.5 多重爆震-斜爆震循环逻辑**
 
-通过设定入口的大小与位置，引擎在极高速状态下可实现**二次点火协议**：
-* **机制：** 当三个结构全部进入爆震状态，巨大的冲击力足以进入预设的特斯拉通道。纺锤体前端触发的首次斜爆震能量，经过通道调整方位后导入该纺锤体的末端。
-* **结果：** 导出的能量触发第二次斜爆震，实现**单结构双点火**。这意味着基础的3个结构可以产生6次爆震。
-* **功率飞跃：** 随着转速提升，功率实现从4次、5次到6次爆震的跨越式飞跃，赋予引擎指数级的动力输出
+#### **九重脉冲协议（混合爆震循环）**
+
+通过将纺锤体前缘定义为**“激波调节器”**（负责斜爆震），并将纺锤体顶点（最宽处）定义为**“压力奇点触发器”**（负责常规爆震），配合特斯拉阀的能量回馈机制，引擎在全速域下可实现精确的**分级多点火协议**。
+
+#### **阶梯式升维逻辑（从静止到高超音速）**
+
+* **第一阶段：冷启动与压气（亚/跨音速）：**
+* 系统通过**磁悬浮**（高阶）或**牺牲式润滑**（低阶）静启动。随着转速提升，结构首先发挥涡轮增压喷气功能，建立基础推力。
+
+* **第二阶段：顶点爆震（超音速 —— 首轮三重奏）：**
+* **机制：** 速度提升导致纺锤体顶点（Apex）积聚的压力到达第一个奇点。
+* **序列：** 压力突变首先触发**第三结构顶点**的常规爆震（或旋转爆震），产生的推力加速导致**第二结构顶点**爆震，随后是**第一结构顶点**爆震。
+* **结果：** 产生 3 次常规爆震事件。
+
+* **第三阶段：斜爆震（高超音速 —— 次轮三重奏）：**
+* **机制：** 速度进一步提升至高超音速奇点，纺锤体前缘（Leading Edge）激发的斜激波强度达到自点火阈值。
+* **序列：** **第三结构前缘**率先引发斜爆震（ODW），随后的加速依次引发**第二结构**与**第一结构**的前缘斜爆震。
+* **结果：** 此时系统处于“六重爆震”状态（3次顶点爆震 + 3次前缘斜爆震）。
+
+#### **特斯拉回馈循环（末轮三重奏）**
+
+* **机制：** 当结构进入爆震状态，巨大的冲击压力被强制压入预设的**特斯拉阀入口**。
+* **路由：** 内部流道将捕获的前端/顶点激波能量进行矢量调整，并在**尾端（Trailing Edge）** 高速喷出。
+* **尾端触发：** 导出的高能射流在尾部触发**二次爆震**（可根据需求设定为爆震或斜爆震）。
+
+#### **总结：九重共振循环**
+最终，系统形成一个自维持的**九重脉冲循环**：
+
+* **3次 顶点爆震**（压力主导）。
+* **3次 前缘斜爆震**（激波主导）。
+* **3次 尾端爆震**（回馈主导）。
+**结论：** 这是一个由几何拓扑驱动的指数级功率倍增器，完美覆盖了从起步到高超音速的所有物理能级。
+
+---
 
 #### **加工工艺：牺牲层间隙控制与整体嵌套浇筑**
 
