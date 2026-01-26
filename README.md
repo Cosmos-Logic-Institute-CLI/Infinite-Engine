@@ -4,7 +4,7 @@
 
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
-[Read in English](#infinite-precision) | [跳转到中文](#无限引擎：自我进化协议)
+[Read in English](#infinite-precision) | [跳转到中文](#无限引擎：自进化协议)
 
 ---
 
