@@ -2,12 +2,11 @@
 
 "Static constructs are bound by their inherent limits; only that which transcends through continuous self-evolution truly embodies the Infinite."
 
-![Screenshot_20260131_193304](https://github.com/user-attachments/assets/1e4c400f-2616-49f9-a413-2258a8d7f923)
-
-
 **Open Source License:** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
 [Read in English](#infinite-precision) | [跳转到中文](#无限引擎自进化协议)
+
+https://doi.org/10.5281/zenodo.18616710
 
 ---
 
